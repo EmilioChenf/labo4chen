@@ -136,8 +136,8 @@ fun PortadaCentradaScreen(modifier: Modifier = Modifier) {
                     .padding(bottom = 32.dp),
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                Text("Nombre del alumno")
-                Text("Número de carné")
+                Text("Emilio Josue Chen Borrayo")
+                Text("24841")
             }
         }
     }
